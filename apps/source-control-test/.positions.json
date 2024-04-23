@@ -6,8 +6,8 @@
     "width": 2
   },
   "table1": {
-    "row": 2,
-    "col": 2,
+    "row": 0.8,
+    "col": 1,
     "height": 8,
     "width": 8
   }
