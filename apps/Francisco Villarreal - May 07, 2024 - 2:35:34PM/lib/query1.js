@@ -1,0 +1,1 @@
+return asset_id;
